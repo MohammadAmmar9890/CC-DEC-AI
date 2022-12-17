@@ -1,4 +1,4 @@
-# CodeClause_Task_03 - Personality Prediction System via CV Analysis
+# CodeClause_Task-03 - Personality Prediction System via CV Analysis
 
 ## Software requirment:
 #### IDE - Google Colab, Pycharm, Jupyter notebook
